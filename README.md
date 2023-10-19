@@ -1,7 +1,9 @@
 # From scratch :bulb:
-We believe in making things from scratch, can help in increasing conceptual understanding of a subject.
-Use your choice of language to make literally anything.
+We believe in making things from scratch, can help in increasing conceptual understanding of a subject.<br>
+Use your choice of language to make literally anything.<br>
 Resist using any pre-existing libraries.
+
+---
 
 # HacktoberFest 2023 :fire:
 
@@ -11,7 +13,7 @@ Resist using any pre-existing libraries.
     </a>
 </p>
 
-> - HacktoberFest is back again. Showcase your coding skills by creating PRs and contributing to the Open Source.
+> - HacktoberFest is back again. Showcase your coding skills by creating PRs and contributing to Open Source.
 
 #### [hacktoberfest 2023](https://hacktoberfest.com/)
 
@@ -19,16 +21,17 @@ Resist using any pre-existing libraries.
 
 - **Step 1** - Fork this repository.
 - **Step 2** - Clone the repository to your local machine.
-- **Step 3** - Creat a new branch.
+- **Step 3** - Create a new branch.
 - **Step 4** - Resolve the bugs, mentions provided in the Issues section of the repository. _Also add a description of what changes you have done_.
 - **Step 5** - Add the changes to your repository.
 - **Step 6** - Create a PULL Request. And that's all.
-- **NOTE** - Please main tain the structure of the repo. For eg if you are submitting a ML model -> Go to Machine Learning -> make a folder -> put the dataset and the model there.
 
 ### What you can contribute in this repo? :punch:
 
-- You can add your own Python code, Machine Learning models, Deep Learning models and any Computer Vision projects.
+- You can contribute any piece of code that solves a problem or question without the use of preexisting libraries.
 - There are various topics.
-- You can contribute some **Learning Resources** in the **_Readme.md_** File.
+- You can contribute some **Learning Resources** in the **_Learning Resources_** File.
 
 ##### Let's Contribute :smiley:
+
+If you have any questions or need further assistance, feel free to reach out! Happy exploring! 🚴
