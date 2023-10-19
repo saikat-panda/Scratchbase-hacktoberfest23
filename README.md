@@ -1,4 +1,4 @@
-# From_scratch :bulb:
+# From scratch :bulb:
 We believe in making things from scratch, can help in increasing conceptual understanding of a subject.
 Use your choice of language to make literally anything.
 Resist using any pre-existing libraries.
